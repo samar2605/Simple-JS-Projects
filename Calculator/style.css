@@ -1,0 +1,33 @@
+
+body{
+  background-color:whitesmoke;   
+}
+.btn{
+    height: 50px;
+    width:70px;
+    margin: 5px 5px;
+    border: 1px  grey;
+    border-radius:20px;
+    background-color:#ADEFD1FF;
+    color:white
+}
+.form-control{
+    margin:5px;
+}
+.special{
+    background-color: #00203FFF;
+}
+h1{
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    text-align: center;
+    font-weight:bold;
+    color:#0b7696;
+}
+
+.layout-outer{
+    padding: 20px;
+    margin:5px;
+    border: 5px solid #55b6d4;
+    border-radius: 20px;
+    background-color:#5B84B1FF;
+}
